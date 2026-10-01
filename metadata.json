@@ -1,0 +1,6 @@
+{
+  "name": "EscolarStock - Gestão & Chatbot de Materiais Escolares",
+  "description": "Sistema de gestão de estoque de materiais escolares integrado ao Supabase em tempo real com agente chatbot alimentado via Groq API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
